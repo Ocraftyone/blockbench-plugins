@@ -570,13 +570,12 @@
       		"min_version": "4.2.0",
 		"variant": "both"
 	},
-	"repeat_it":{
+	"repeat_it": {
 		"title": "Repeat It",
-        "author": "Ocraftyone",
-        "icon": "content_copy",
-        "description":
-            "Allows you to repeat shapes with a translation applied to each new object",
-        "version": "0.0.1",
-        "variant": "both"
+        	"author": "Ocraftyone",
+       		"icon": "content_copy",
+        	"description": "Allows you to repeat shapes with a translation applied to each new object",
+        	"version": "0.0.1",
+        	"variant": "both"
 	}
 }
